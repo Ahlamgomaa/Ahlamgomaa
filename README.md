@@ -24,7 +24,7 @@ I enjoy transforming ideas into real applications using modern mobile technologi
 
 # 🚀 Featured Mobile Projects
 
-## 1. Trek (Flutter)
+## 1. [Trek (Flutter)](https://github.com/3bary/trek)
 A smart tourism mobile application that generates personalized travel recommendations and helps users explore places based on their interests.
 
 ### Features:
@@ -39,7 +39,7 @@ A smart tourism mobile application that generates personalized travel recommenda
 Built using Flutter, BLoC/Cubit State Management, Clean Architecture, Dio, and GoRouter.
 
 
-## 2. Yummi (Android)
+## 2. [Yummi (Android)](https://github.com/Ahlamgomaa/Food-Planner)
 A modern food planning and meal management application designed to simplify everyday meal organization.
 
 ### Features:
@@ -53,7 +53,7 @@ A modern food planning and meal management application designed to simplify ever
 Native Android application developed using Kotlin, MVVM Architecture, Retrofit, and Room Database.
 
 
-## 3. SkyFlow (Android)
+## 3. [SkyFlow (Android)](https://github.com/Ahlamgomaa/Weather-App)
 A weather forecasting application delivering real-time weather updates with clean and user-friendly interfaces.
 
 ### Features:
@@ -67,7 +67,7 @@ A weather forecasting application delivering real-time weather updates with clea
 Built using Kotlin with MVVM architecture principles and modern Android development practices.
 
 
-## 4. Sports App (iOS)
+## 4. [Sports App (iOS)](https://github.com/Alaa7Hany/MAD46_Sports)
 A native iOS sports application that allows users to explore sports categories, leagues, and match fixtures with favorite management support.
 
 ### Features:
@@ -79,21 +79,6 @@ A native iOS sports application that allows users to explore sports categories, 
 
 ### Architecture:
 Developed using Swift, MVP Architecture, Alamofire, Core Data, and UIKit.
-
-
-## 5. AI Platform for Precision Agriculture (Python)
-An intelligent system designed to assist in precision agriculture using AI and optimization algorithms.
-
-### Features:
-- CSV data handling
-- Smart recommendations
-- Interactive GUI
-- Optimization algorithm visualization
-- Agricultural data analysis
-
-### Architecture:
-Built using Python with GUI integration and intelligent systems concepts.
-
 
 # 📫 Connect with Me:
 - LinkedIn: https://www.linkedin.com/in/ahlam-gomaa/

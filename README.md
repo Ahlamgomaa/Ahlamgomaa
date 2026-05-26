@@ -1,4 +1,4 @@
-# Hi there, I'm Ahlam Gomaa 👋📱
+# Hi, I'm Ahlam Gomaa 👋📱
 Android & Mobile Developer
 
 I am a passionate Mobile Application Developer with a strong background in building scalable, modern, and user-friendly mobile applications. I graduated from the Faculty of Computer Science and Artificial Intelligence with Excellent with Honors and ranked 1st in my university. Currently, I am continuing my journey through the intensive 9-Month Professional Training Program at ITI in the Mobile Applications Development Native Track.
